@@ -61,6 +61,8 @@ This privacy policy is effective as of 2026-02-21
 Your Consent
 By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
 
+Account Deletion
+If you wish to delete your account and all associated data, you may request deletion by emailing the Service Provider at fanisgn@yahoo.com with the subject line "Delete my Palabra account". Please include the email address associated with your account. The Service Provider will delete your account and all associated personal data within 30 days of receiving your request. Note that some data may be retained if required by law.
 
 Contact Us
 If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at fanisgn@yahoo.com.
